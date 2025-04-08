@@ -1,5 +1,5 @@
 # Spin-glass-Ground-states-RL
-Finding spin glass ground states through deep reinforcement learning
+Finding spin glass ground states through deep reinforcement learning and graph neural network.
 \
 (work in progress)
 
